@@ -7,6 +7,7 @@
 List of contributions :-
 - [HTML and CSS Projects](https://github.com/stars/sub1120/lists/html-css-projects)
 - [Tailwind CSS Projects](https://github.com/stars/sub1120/lists/tailwind-css-projects)
+- [React Projects](https://github.com/stars/sub1120/lists/reactjs)
 
 <!---
 sub1120/sub1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
