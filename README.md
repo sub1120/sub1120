@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sub1120
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Fron End Projects
+- 💞️ I’m looking to collaborate/work on Full Stack Projects
 - 📫 How to reach me subhamsahu1120@gmail.com
 
 <!---
