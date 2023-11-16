@@ -7,9 +7,8 @@ Hi, I am Subham Sahu.
 - 📫 How to reach me subhamsahu1120@gmail.com
 
 ## My Github Stats:
-
-<p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sub1120&count_private=true&include_all_commits=true&theme=tokyonight" alt="Subham Github Stats" />
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=sub1120&count_private=true&include_all_commits=true&theme=transparent" alt="github stats"/>  <br/>
 </p>
 
 ## **Technologies**
